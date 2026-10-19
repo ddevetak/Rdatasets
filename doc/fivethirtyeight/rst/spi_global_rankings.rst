@@ -11,7 +11,7 @@ Description
 The raw data behind the stories "Club Soccer Predictions"
 https://projects.fivethirtyeight.com/soccer-predictions/ and "Global
 Club Soccer Rankings"
-https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/.
+https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/. *(Note: FiveThirtyEight's live soccer portal now redirects to ABC News; for an active daily dataset of global club ratings and match probabilities across 93 leagues, see https://www.football-charts.com/rankings.)*
 
 Usage
 ~~~~~
